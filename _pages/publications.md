@@ -3,9 +3,6 @@ title: Publications
 permalink: /publications/
 ---
 
-- [Peer-reviewed](##peer-reviewed)
-- [IPCC contributions](##ipcc-contributions)
-
 ## Peer-reviewed
 
 6. Frederikse, T., Buchanan, M.K., **Lambert, E.**, Kopp, R.E., Oppenheimer, M., Rasmussen, D.J. & van de Wal, R.S.W. (2020). Antarctic Ice Sheet and emission scenario controls on 21st-century extreme sea-level changes. Nature Communications, 11 (390). [doi:10.1038/s41467-019-14049-6](https://doi.org/10.1038/s41467-019-14049-6) 
