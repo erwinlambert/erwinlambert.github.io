@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Oceanography"
 title_separator          : "-"
-subtitle                 : "Erwin Lambert"
+subtitle                 : "Sea-level rise and the polar oceans"
 name                     : "Erwin Lambert"
 description              : "An amazing website."
 url                      : "https://erwinlambert.github.io"
@@ -113,9 +113,6 @@ author:
   location         : "IMAU, Utrecht University"
   email            : "e.lambert@uu.nl"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:e.lambert@uu.nl"
     - label: "IMAU website"
       icon: "fas fa-fw fa-link"
       url: "https://www.uu.nl/staff/Elambert"
@@ -281,4 +278,4 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+      toc: true
