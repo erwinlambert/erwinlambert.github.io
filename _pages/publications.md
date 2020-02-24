@@ -6,7 +6,6 @@ toc: true
 
 - [Peer-reviewed](##peer-reviewed)
 - [IPCC contributions](##ipcc-contributions)
-{:toc}
 
 ## Peer-reviewed
 
