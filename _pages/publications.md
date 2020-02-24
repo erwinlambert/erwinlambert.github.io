@@ -3,7 +3,7 @@ title: Publications
 permalink: /publications/
 ---
 
-# Peer-reviewed articles
+## Peer-reviewed articles
 
 6. Frederikse, T., Buchanan, M.K., **Lambert, E.**, Kopp, R.E., Oppenheimer, M., Rasmussen, D.J. & van de Wal, R.S.W. (2020). Antarctic Ice Sheet and emission scenario controls on 21st-century extreme sea-level changes. Nature Communications, 11 (390). [doi:10.1038/s41467-019-14049-6](https://doi.org/10.1038/s41467-019-14049-6) 
 
@@ -17,7 +17,7 @@ permalink: /publications/
 
 1. **Lambert, E.**, Le Bars, D.M. & de Ruijter, W.P.M. (2016). The connection of the Indonesian Throughflow, South Indian Ocean Countercurrent and the Leeuwin Current. Ocean Science, 12 (3), (pp. 771-780). [doi:10.5194/os-12-771-2016](https://doi.org/10.5194/os-12-771-2016) 
 
-# IPCC contributions
+## IPCC contributions
 
 2. IPCC, 2019: Summary for Policymakers. In: IPCC Special Report on the Ocean and Cryosphere in a Changing Climate [H.-O. Pörtner, D.C.Roberts, V. Masson-Delmotte, P. Zhai, M. Tignor, E. Poloczanska, K. Mintenbeck, M. Nicolai, A. Okem, J. Petzold, B. Rama, N. Weyer (eds.)]. Contributing authors include **Lambert, E.** [website](https://www.ipcc.ch/srocc/chapter/summary-for-policymakers/)
  
