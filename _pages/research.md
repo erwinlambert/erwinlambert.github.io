@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Sea-level rise
 
-bla
+![SROCC Fig 4.2](/assets/IPCC-SROCC-CH_4_2.jpg "SROCC Fig 4.2")
 
 ## Polar oceanography
 
