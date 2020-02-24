@@ -111,7 +111,7 @@ author:
   avatar           : "/assets/profile.png"
   bio              : "Physical Oceanographer"
   location         : "IMAU, Utrecht University"
-  email            : "e.lambert@uu.nl"
+  email            : "e.lambert [at] uu.nl"
   links:
     - label: "IMAU website"
       icon: "fas fa-fw fa-link"
