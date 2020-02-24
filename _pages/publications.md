@@ -1,7 +1,6 @@
 ---
 title: Publications
 permalink: /publications/
-toc: true
 ---
 
 - [Peer-reviewed](##peer-reviewed)
