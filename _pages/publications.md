@@ -3,6 +3,24 @@ title: Publications
 permalink: /publications/
 ---
 
-<body 
-Lambert et al \\
->
+# Peer-reviewed articles
+
+6. Frederikse, T., Buchanan, M.K., **Lambert, E.**, Kopp, R.E., Oppenheimer, M., Rasmussen, D.J. & van de Wal, R.S.W. (2020). Antarctic Ice Sheet and emission scenario controls on 21st-century extreme sea-level changes. Nature Communications, 11 (390). [doi:10.1038/s41467-019-14049-6](https://doi.org/10.1038/s41467-019-14049-6) 
+
+5. Hinkel, Jochen, Church, John A., Gregory, Jonathan M., **Lambert, Erwin**, Le Cozannet, Gonéri, Lowe, Jason, McInnes, Kathleen L., Nicholls, Robert J., van der Pol, Thomas D. & van de Wal, Roderik (01.01.2019). Meeting User Needs for Sea Level Rise Information - A Decision Analysis Perspective. Earth's Future, 7 (3), (pp. 320-337) (18 p.). [doi/10.1029/2018ef001071](https://doi.org/10.1029/2018ef001071) 
+
+4. **Lambert, E.**, Nummelin, A., Pemberton, P. & Ilicak, M. (2019). Tracing the Imprint of River Runoff Variability on Arctic Water Mass Transformation. Journal of Geophysical Research: Oceans, 124 (1), (pp. 302-319). [doi:10.1029/2017jc013704](https://doi.org/10.1029/2017jc013704) 
+
+3. **Lambert, E.**, Eldevik, T. & Spall, M.A. (2018). On the Dynamics and Water Mass Transformation of a Boundary Current Connecting Alpha and Beta Oceans. Journal of Physical Oceanography, 48 (10), (pp. 2457-2475). [doi:10.1175/jpo-d-17-0186.1](https://doi.org/10.1175/jpo-d-17-0186.1) 
+
+2. **Lambert, E.**, Eldevik T., & Haugan, P. (2016). How northern freshwater input can stabilise thermohaline circulation. Tellus, Series A: Dynamic Meteorology and Oceanography, 68 (1). [doi:10.3402/tellusa.v68.31051](https://doi.org/10.3402/tellusa.v68.31051)
+
+1. **Lambert, E.**, Le Bars, D.M. & de Ruijter, W.P.M. (2016). The connection of the Indonesian Throughflow, South Indian Ocean Countercurrent and the Leeuwin Current. Ocean Science, 12 (3), (pp. 771-780). [doi:10.5194/os-12-771-2016](https://doi.org/10.5194/os-12-771-2016) 
+
+# IPCC contributions
+
+2. IPCC, 2019: Summary for Policymakers. In: IPCC Special Report on the Ocean and Cryosphere in a Changing Climate [H.-O. Pörtner, D.C.Roberts, V. Masson-Delmotte, P. Zhai, M. Tignor, E. Poloczanska, K. Mintenbeck, M. Nicolai, A. Okem, J. Petzold, B. Rama, N. Weyer (eds.)]. Contributing authors include **Lambert, E.** [website](https://www.ipcc.ch/srocc/chapter/summary-for-policymakers/)
+ 
+1. Oppenheimer, M., Glavovic, B., Hinkel, J., van de Wal, R., Magnan, A. K., Abd-Elgawad, A., Cai, R., Cifuentes-Jara, M., Deconto, R., Ghosh, T., Hay, J., Isla, F., Marzeion, B., Meyssignac, B., Sebesvari, Z., 2019: Sea Level Rise and Implications for Low Lying Islands, Coasts and Communities. In: IPCC Special Report on the Ocean and Cryosphere in a Changing Climate [H.-O. Pörtner, D.C.Roberts, V. Masson-Delmotte, P. Zhai, M. Tignor, E. Poloczanska, K. Mintenbeck, M. Nicolai, A. Okem, J. Petzold, B. Rama, N. Weyer (eds.)]. Contributing authors include **Lambert, E.** [website](https://www.ipcc.ch/srocc/chapter/chapter-4-sea-level-rise-and-implications-for-low-lying-islands-coasts-and-communities/)
+ 
+
