@@ -9,7 +9,7 @@ permalink: /talks/
 
 27 March: *Collaboration in climate science*, UU-NIOZ symposium, Utrecht
 
-2 March: *Gevolgen van zeespiegelstijging*, NTW Domeinmiddag, KNAW, Trippenhuis Amsterdam
+2 March: [Regionale zeespiegelstijging en extreme waterstanden](https://www.knaw.nl/nl/actueel/agenda/zeespiegelstijging), NTW Domeinmiddag, KNAW, Trippenhuis Amsterdam
 
 
 ## Previous (selected)
