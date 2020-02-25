@@ -5,9 +5,11 @@ permalink: /publications/
 
 ## Submitted articles
 
-2. Lambert, E., Rohmer, J., Le Cozannet, G., & van de Wal, R.S.W. Adaptation time to magnified flood hazards underestimated when derived from tide gauge records. *in review*
+3. Karabil, S., Sutanudjaja, E.H., **Lambert, E.**, Bierkens, M.F.P., & van de Wal, R.S.W. Contribution of land water storage to regional sea-level rise over the 21st century. *in review*
 
-1. Ypma, S.L., Spall, M.A., Lambert, E., Georgiou, S., Pietrzak, J.D., & Katsman, C.A. On the role of the contrasting dynamics of the Lofoten and Greenland Basins on the atmospheric sensitivity of the Nordic Seas. *in review*
+2. **Lambert, E.**, Rohmer, J., Le Cozannet, G., & van de Wal, R.S.W. Adaptation time to magnified flood hazards underestimated when derived from tide gauge records. *in review*
+
+1. Ypma, S.L., Spall, M.A., **Lambert, E.**, Georgiou, S., Pietrzak, J.D., & Katsman, C.A. On the role of the contrasting dynamics of the Lofoten and Greenland Basins on the atmospheric sensitivity of the Nordic Seas. *in review*
 
 ## Peer-reviewed articles
 
@@ -28,4 +30,16 @@ permalink: /publications/
 2. IPCC, 2019: Summary for Policymakers. In: IPCC Special Report on the Ocean and Cryosphere in a Changing Climate [H.-O. Pörtner, D.C.Roberts, V. Masson-Delmotte, P. Zhai, M. Tignor, E. Poloczanska, K. Mintenbeck, M. Nicolai, A. Okem, J. Petzold, B. Rama, N. Weyer (eds.)]. Contributing authors include **Lambert, E.** [website](https://www.ipcc.ch/srocc/chapter/summary-for-policymakers/)
  
 1. Oppenheimer, M., Glavovic, B., Hinkel, J., van de Wal, R., Magnan, A. K., Abd-Elgawad, A., Cai, R., Cifuentes-Jara, M., Deconto, R., Ghosh, T., Hay, J., Isla, F., Marzeion, B., Meyssignac, B., Sebesvari, Z., 2019: Sea Level Rise and Implications for Low Lying Islands, Coasts and Communities. In: IPCC Special Report on the Ocean and Cryosphere in a Changing Climate [H.-O. Pörtner, D.C.Roberts, V. Masson-Delmotte, P. Zhai, M. Tignor, E. Poloczanska, K. Mintenbeck, M. Nicolai, A. Okem, J. Petzold, B. Rama, N. Weyer (eds.)]. Contributing authors include **Lambert, E.** [website](https://www.ipcc.ch/srocc/chapter/chapter-4-sea-level-rise-and-implications-for-low-lying-islands-coasts-and-communities/)
- 
+
+## PhD thesis
+
+Lambert, E. On freshwater and the density-driven circulation in the northern seas, 2017. *Doctoral Thesis*, University of Bergen, [ISBN:978-82-308-3907-2](https://bora.uib.no/handle/1956/19042) 
+
+## Non-refereed articles
+
+2. Thibodeau, B., & **Lambert, E.** (2019). A Stella® version of the Arctic Mediterranean Double Estuarine
+Circulation model: SAMDEC v1. 0, *EarthArXiv*, [doi:10.31223/osf.io/tqvnk](https://doi.org/10.31223/osf.io/tqvnk)
+
+1. Le Cozannet, G., Rohmer, J., Manceau, J. C., Durand, G., Ritz, C., Melet, A., Meyssignac, B., Salas y Melia, D.,
+Carson, M., Slangen, A., Hinkel, J., **Lambert, E.**, Stammer, D., van de Wal, R., & Nicholls, R. J. (2018) Toward a
+unified approach to quantify uncertainties in sea-level projections, *EarthArXiv*, [doi:10.31223/osf.io/a7gnw](https://doi.org/10.31223/osf.io/a7gnw)
