@@ -9,7 +9,7 @@ permalink: /publications/
 
 2. **Lambert, E.**, Rohmer, J., Le Cozannet, G., & van de Wal, R.S.W. Adaptation time to magnified flood hazards underestimated when derived from tide gauge records. *in review*
 
-1. Ypma, S.L., Spall, M.A., **Lambert, E.**, Georgiou, S., Pietrzak, J.D., & Katsman, C.A. On the role of the contrasting dynamics of the Lofoten and Greenland Basins on the atmospheric sensitivity of the Nordic Seas. *in review*
+1. Ypma, S.L., Spall, M.A., **Lambert, E.**, Georgiou, S., Pietrzak, J.D., & Katsman, C.A. On the role of the contrasting dynamics of the Lofoten and Greenland Basins on the atmospheric sensitivity of the Nordic Seas. *accepted for publication in JPO*
 
 ## Peer-reviewed articles
 
