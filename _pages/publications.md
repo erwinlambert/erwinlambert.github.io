@@ -9,9 +9,9 @@ permalink: /publications/
 
 2. **Lambert, E.**, Rohmer, J., Le Cozannet, G., & van de Wal, R.S.W. Adaptation time to magnified flood hazards underestimated when derived from tide gauge records. *in review*
 
-1. Ypma, S.L., Spall, M.A., **Lambert, E.**, Georgiou, S., Pietrzak, J.D., & Katsman, C.A. On the role of the contrasting dynamics of the Lofoten and Greenland Basins on the atmospheric sensitivity of the Nordic Seas. *accepted for publication in JPO*
-
 ## Peer-reviewed articles
+
+7. Ypma, S.L., Spall, M.A., **Lambert, E.**, Georgiou, S., Pietrzak, J.D., & Katsman, C.A. On the role of the contrasting dynamics of the Lofoten and Greenland Basins on the atmospheric sensitivity of the Nordic Seas. *accepted for publication in JPO*
 
 6. Frederikse, T., Buchanan, M.K., **Lambert, E.**, Kopp, R.E., Oppenheimer, M., Rasmussen, D.J. & van de Wal, R.S.W. (2020). Antarctic Ice Sheet and emission scenario controls on 21st-century extreme sea-level changes. *Nature Communications*, 11 (390). [doi:10.1038/s41467-019-14049-6](https://doi.org/10.1038/s41467-019-14049-6) 
 
