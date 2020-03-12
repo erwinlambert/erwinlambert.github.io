@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Peer-reviewed articles
 
-7. Ypma, S.L., Spall, M.A., **Lambert, E.**, Georgiou, S., Pietrzak, J.D., & Katsman, C.A. (2020) The contrasting dynamics of the buoyancy-forced Lofoten and Greenland Basins. Journal of Physical Oceanography. [doi:10.1175/JPO-D-19-0280.1](https://doi.org/10.1175/JPO-D-19-0280.1)
+7. Ypma, S.L., Spall, M.A., **Lambert, E.**, Georgiou, S., Pietrzak, J.D., & Katsman, C.A. (2020) The contrasting dynamics of the buoyancy-forced Lofoten and Greenland Basins. *Journal of Physical Oceanography*. [doi:10.1175/JPO-D-19-0280.1](https://doi.org/10.1175/JPO-D-19-0280.1)
 
 6. Frederikse, T., Buchanan, M.K., **Lambert, E.**, Kopp, R.E., Oppenheimer, M., Rasmussen, D.J. & van de Wal, R.S.W. (2020). Antarctic Ice Sheet and emission scenario controls on 21st-century extreme sea-level changes. *Nature Communications*, 11 (390). [doi:10.1038/s41467-019-14049-6](https://doi.org/10.1038/s41467-019-14049-6) 
 
