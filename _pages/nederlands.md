@@ -5,8 +5,6 @@ permalink: /nederlands/
 
 ## Gevolgen zeespiegelstijging
 
-![SROCC AF](/assets/AF.html "SROCC AF")
-
 <div style="position:relative;padding-top:50%;">
   <iframe src="../assets/AF.html" frameborder="0" allowfullscreen
     style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
