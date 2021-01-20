@@ -5,11 +5,17 @@ permalink: /publications/
 
 ## Submitted articles
 
-3. Karabil, S., Sutanudjaja, E.H., **Lambert, E.**, Bierkens, M.F.P., & van de Wal, R.S.W. Contribution of land water storage to regional sea-level rise over the 21st century. *in review*
+3. Van der Pol et al., Decision-support for risk-based land reclamation in the Maldives. *in review*
 
-2. **Lambert, E.**, Rohmer, J., Le Cozannet, G., & van de Wal, R.S.W. Adaptation time to magnified flood hazards underestimated when derived from tide gauge records. *in review*
+2. Rohmer et al., Unravelling the importance of uncertainties in global-scale coastal flood risk assessments under sea level rise. *in review*
+
+1. Magnan et al., Sea-level rise risks and societal adaptation benefits in low-lying coastal areas. *in review*
 
 ## Peer-reviewed articles
+
+9. **Lambert, E.**, Le Bars, D., Goelzer, H., & van de Wal, R.S.W. Correlations between sea-level components are driven by regional climate change. *Earth's Future*. [doi:10.1029/2020EF001825](https://doi.org/10.1029/2020EF001825)
+
+8. **Lambert, E.**, Rohmer, J., Le Cozannet, G., & van de Wal, R.S.W. Adaptation time to magnified flood hazards underestimated when derived from tide gauge records. *Environmental Research Letters*. [doi:10.1088/1748-9326/ab8336](https://doi.org/10.1088/1748-9326/ab8336)
 
 7. Ypma, S.L., Spall, M.A., **Lambert, E.**, Georgiou, S., Pietrzak, J.D., & Katsman, C.A. (2020) The contrasting dynamics of the buoyancy-forced Lofoten and Greenland Basins. *Journal of Physical Oceanography*. [doi:10.1175/JPO-D-19-0280.1](https://doi.org/10.1175/JPO-D-19-0280.1)
 
