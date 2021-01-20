@@ -3,21 +3,20 @@ title: Research interests
 permalink: /research/
 ---
 
+## Polar oceanography
+
+![Thwaites](/assets/Layer_Thwaites_tanh_Tdeep0_ztcl-550.png "Thwaites")
+
+
+When warm waters in the Southern Oceans get in contact with the floating ice shelves of the Antarctic ice sheet, the ice shelves melt.
+
+A simple model for the flow of buoyant melt plumes below ice shelves reveals a complex pattern of melt below the Thwaites ice shelf. Detailed maps like these can be used to force ice sheet models in order to project future sea-level rise.
 
 ## Sea-level rise
 
-![SROCC Fig 4.2](/assets/IPCC-SROCC-CH_4_2.jpg "SROCC Fig 4.2")
+<div style="position:relative;padding-top:50%;">
+  <iframe src="assets/AF.html" frameborder="0" allowfullscreen
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+</div>
 
-The above figure shows the projected global mean sea-level rise for the coming three centuries. The colours indicate the greenhouse gas emission scenarios: a low-emission scenario (blue) and a high-emission scenario (red).
-
-My research revolves around accurately estimating the uncertainty in these projections on a global and regional scale. In addition, I estimate the impact of mean sea-level rise on the increase in extreme sea-level events that can cause coastal flooding. This research can help policy makers in their planning strategies of both mitigation and adaptation. 
-
-## Polar oceanography
-
-![JPO Fig 1](/assets/jpo-d-17-0186.1-f1.gif "JPO Fig 1")
-
-The above figure shows the schematic circulation around the Nordic Seas, connecting the North Atlantic and the Arctic Oceans. Northward flowing Atlantic Water cools and freshens as it circulates the basin before returning southward. 
-
-I have studied the influence of increased freshwater release, due to increased precipitation and ice melt, on this circulation. This research showed that the water mass exchange with the Arctic Ocean and the supply of coastal river runoff contribute to a stable northernmost branch of the thermohaline circulation.
-
-
+Amplification of extreme water levels due to projected sea-level rise by 2100 under three emission scenarios from the latest IPCC report (<a href="https://www.ipcc.ch/srocc/chapter/chapter-4-sea-level-rise-and-implications-for-low-lying-islands-coasts-and-communities/">Oppenheimer et al. 2019</a>).
