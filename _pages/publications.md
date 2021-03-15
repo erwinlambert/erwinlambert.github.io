@@ -5,19 +5,20 @@ permalink: /publications/
 
 ## Submitted articles
 
-4. Karabil et al., Contribution of land water storage change to regional sea-level rise over the 21st century. *in review*
+3. Karabil et al., Contribution of land water storage change to regional sea-level rise over the 21st century. *in review*
 
-3. Van der Pol et al., Decision-support for risk-based land reclamation in the Maldives. *in review*
-
-2. Rohmer et al., Unravelling the importance of uncertainties in global-scale coastal flood risk assessments under sea level rise. *in review*
+2. Van der Pol et al., Decision-support for risk-based land reclamation in the Maldives. *in review*
 
 1. Magnan et al., Sea-level rise risks and societal adaptation benefits in low-lying coastal areas. *in review*
 
 ## Peer-reviewed articles
 
-9. **Lambert, E.**, Le Bars, D., Goelzer, H., & van de Wal, R.S.W. Correlations between sea-level components are driven by regional climate change. *Earth's Future*. [doi:10.1029/2020EF001825](https://doi.org/10.1029/2020EF001825)
+10. Rohmer, J, Lincke, D., Hinkel, J., Le Cozannet, G., **Lambert, E.**, & Vafeidis, A.T. (2021). Unravelling the Importance of Uncertainties in Global-Scale
+Coastal Flood Risk Assessments under Sea Level Rise, *Water*, 13, 774. [doi:10.3390/w13060774](https://doi.org/10.3390/w13060774)
 
-8. **Lambert, E.**, Rohmer, J., Le Cozannet, G., & van de Wal, R.S.W. Adaptation time to magnified flood hazards underestimated when derived from tide gauge records. *Environmental Research Letters*. [doi:10.1088/1748-9326/ab8336](https://doi.org/10.1088/1748-9326/ab8336)
+9. **Lambert, E.**, Le Bars, D., Goelzer, H., & van de Wal, R.S.W. (2021). Correlations between sea-level components are driven by regional climate change. *Earth's Future*, 9, e2020EF001825. [doi:10.1029/2020EF001825](https://doi.org/10.1029/2020EF001825)
+
+8. **Lambert, E.**, Rohmer, J., Le Cozannet, G., & van de Wal, R.S.W. (2020). Adaptation time to magnified flood hazards underestimated when derived from tide gauge records. *Environmental Research Letters*. [doi:10.1088/1748-9326/ab8336](https://doi.org/10.1088/1748-9326/ab8336)
 
 7. Ypma, S.L., Spall, M.A., **Lambert, E.**, Georgiou, S., Pietrzak, J.D., & Katsman, C.A. (2020) The contrasting dynamics of the buoyancy-forced Lofoten and Greenland Basins. *Journal of Physical Oceanography*. [doi:10.1175/JPO-D-19-0280.1](https://doi.org/10.1175/JPO-D-19-0280.1)
 
@@ -35,13 +36,13 @@ permalink: /publications/
 
 ## IPCC contributions
 
-2. IPCC, 2019: Summary for Policymakers. In: IPCC Special Report on the Ocean and Cryosphere in a Changing Climate [H.-O. Pörtner, D.C.Roberts, V. Masson-Delmotte, P. Zhai, M. Tignor, E. Poloczanska, K. Mintenbeck, M. Nicolai, A. Okem, J. Petzold, B. Rama, N. Weyer (eds.)]. Contributing authors include **Lambert, E.** [website](https://www.ipcc.ch/srocc/chapter/summary-for-policymakers/)
+2. IPCC (2019). Summary for Policymakers. In: IPCC Special Report on the Ocean and Cryosphere in a Changing Climate [H.-O. Pörtner, D.C.Roberts, V. Masson-Delmotte, P. Zhai, M. Tignor, E. Poloczanska, K. Mintenbeck, M. Nicolai, A. Okem, J. Petzold, B. Rama, N. Weyer (eds.)]. Contributing authors include **Lambert, E.** [website](https://www.ipcc.ch/srocc/chapter/summary-for-policymakers/)
  
-1. Oppenheimer, M., Glavovic, B., Hinkel, J., van de Wal, R., Magnan, A. K., Abd-Elgawad, A., Cai, R., Cifuentes-Jara, M., Deconto, R., Ghosh, T., Hay, J., Isla, F., Marzeion, B., Meyssignac, B., Sebesvari, Z., 2019: Sea Level Rise and Implications for Low Lying Islands, Coasts and Communities. In: IPCC Special Report on the Ocean and Cryosphere in a Changing Climate [H.-O. Pörtner, D.C.Roberts, V. Masson-Delmotte, P. Zhai, M. Tignor, E. Poloczanska, K. Mintenbeck, M. Nicolai, A. Okem, J. Petzold, B. Rama, N. Weyer (eds.)]. Contributing authors include **Lambert, E.** [website](https://www.ipcc.ch/srocc/chapter/chapter-4-sea-level-rise-and-implications-for-low-lying-islands-coasts-and-communities/)
+1. Oppenheimer, M., Glavovic, B., Hinkel, J., van de Wal, R., Magnan, A. K., Abd-Elgawad, A., Cai, R., Cifuentes-Jara, M., Deconto, R., Ghosh, T., Hay, J., Isla, F., Marzeion, B., Meyssignac, B., Sebesvari, Z. (2019). Sea Level Rise and Implications for Low Lying Islands, Coasts and Communities. In: IPCC Special Report on the Ocean and Cryosphere in a Changing Climate [H.-O. Pörtner, D.C.Roberts, V. Masson-Delmotte, P. Zhai, M. Tignor, E. Poloczanska, K. Mintenbeck, M. Nicolai, A. Okem, J. Petzold, B. Rama, N. Weyer (eds.)]. Contributing authors include **Lambert, E.** [website](https://www.ipcc.ch/srocc/chapter/chapter-4-sea-level-rise-and-implications-for-low-lying-islands-coasts-and-communities/)
 
 ## PhD thesis
 
-Lambert, E. On freshwater and the density-driven circulation in the northern seas, 2017. *Doctoral Thesis*, University of Bergen, [ISBN:978-82-308-3907-2](https://bora.uib.no/handle/1956/19042) 
+**Lambert, E.** On freshwater and the density-driven circulation in the northern seas (2017). *Doctoral Thesis*, University of Bergen, [ISBN:978-82-308-3907-2](https://bora.uib.no/handle/1956/19042) 
 
 ## Non-refereed articles
 
@@ -49,5 +50,5 @@ Lambert, E. On freshwater and the density-driven circulation in the northern sea
 Circulation model: SAMDEC v1. 0, *EarthArXiv*, [doi:10.31223/osf.io/tqvnk](https://doi.org/10.31223/osf.io/tqvnk)
 
 1. Le Cozannet, G., Rohmer, J., Manceau, J. C., Durand, G., Ritz, C., Melet, A., Meyssignac, B., Salas y Melia, D.,
-Carson, M., Slangen, A., Hinkel, J., **Lambert, E.**, Stammer, D., van de Wal, R., & Nicholls, R. J. (2018) Toward a
+Carson, M., Slangen, A., Hinkel, J., **Lambert, E.**, Stammer, D., van de Wal, R., & Nicholls, R. J. (2018). Toward a
 unified approach to quantify uncertainties in sea-level projections, *EarthArXiv*, [doi:10.31223/osf.io/a7gnw](https://doi.org/10.31223/osf.io/a7gnw)
